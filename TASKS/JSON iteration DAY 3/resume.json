@@ -1,0 +1,47 @@
+{
+    "Resume" : {
+      "name" : "Vignesh Kalithas",
+      "email" : "vigneshkalithas@outlook.com",
+      "phone" : "80720197**",
+      "label" : "Junior Developer",
+      "summary" : "Seeking a challenging position in a reputed organization where i can learn new skills,expand my knowledge,and leverage my learnings."
+    },
+    
+    "AccademicBackround" :[ {
+       "degree" : "UG",
+        "institution" : "TKSCT,Theni",
+        "dept" : "Ece",
+        "percentage" : "8.5%"
+      },
+      {
+        "degree" : "HSC",
+        "institution" : "ZKM matric school,Bodinayaknur",
+        "percentage" : "63.5%"
+        },
+      {
+        "degree" : "SSC",
+        "institution" :"ZKM matric school,Bodinayaknur",
+        "percentage" : "87.5%"
+      }
+    ],
+    "projects" : [
+      {
+       "title" : "Driver Drowsiness Detection System", 
+       "description" : "Retina sensor is used to detect driver drowsiness and automatic breaking system."
+       },
+      {
+       "title":"Steam electric generator",
+        "description" : "school time project for steam is used to genrate electrical power."
+       },
+       {
+       "title": "Basic Calculator Using Javascript",
+        "description" : "Create simple responsive calculator."
+       }
+    ],
+    "skills" : {
+      "frontend" : "html,css,bootstrap",
+      "backend" : "node.js,react.js",
+      "database" : "sql"
+    },
+    "languages" :"Tamil, English" 
+  }
